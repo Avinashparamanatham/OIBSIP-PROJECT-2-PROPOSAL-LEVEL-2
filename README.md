@@ -100,4 +100,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Avinashparamanatham
 
-Project Link: [https://github.com/yourusername/wine-quality-prediction](https://github.com/yourusername/wine-quality-prediction)
